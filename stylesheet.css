@@ -186,6 +186,7 @@ footer {
 aside {
   background-color: #5a7eb4;
   margin: 5px;
+  margin-top: 5em;
   width: 20em;
   height: auto;
   padding-bottom: 5em;
@@ -193,4 +194,8 @@ aside {
   padding-left: 2em;
   border: 2px solid black;
   border-radius: 20px;
+}
+li > a {
+  color: white;
+  text-decoration: none;
 }
